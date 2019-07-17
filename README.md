@@ -42,6 +42,9 @@ In this workshop you will be introduced to the data science process for building
 
 Intelligent experiences powered by AI can seem like magic to users. Developing them, however, is cumbersome involving a series of sequential and interconnected decisions along the way that are pretty time consuming. What if there was an automated service that identifies the best machine learning pipelines for a given problem/data? Automated machine learning does exactly that! Learn how to quickly and efficiently build high accuracy ml models for classification, regression and forecasting scenarios using code and code-free pathways.
 
+#### Materials
+
+
 
 ### **Part 2 -** Crash course on building and accelerating deep learning solutions (1 hour)
 
@@ -51,3 +54,39 @@ Learn the end to end process of building deep learning solutions from experiment
 [Content](https://github.com/sethjuarez/pytorchintro)
 * **Part 1:** Getting familiar with Deep Learning and PyTorch
 * **Part 2:** Using Azure Machine Learning service to cloud accelerate deep learning
+
+## ML.NET Content
+
+* Below we have listed **4 ML.NET talks** that might be of interest to your communities. 
+* Each one has **a link to a video** of the session and how it has been delivered. 
+* **Pick from the 4 listed below** which feel relevant for the maturity of your audience in this technology space. 
+* **Each talk is 1 hour long**
+
+### **Talk One of Four (1/4):** Introduction to ML.NET 1.0
+
+**Description:** ML.NET 1.0 release is the first major milestone of a great journey that started in May 2018 when we released ML.NET 0.1 as open source. ML.NET is an open-source and cross-platform machine learning framework for .NET developers. Using ML.NET, developers can leverage their existing tools and skillsets to develop and infuse custom AI into their applications by creating custom machine learning models for common scenarios like Sentiment Analysis, Recommendation, Image Classification and more.
+This presentation provides an overview of the technology with demos run in a Deep Learning Virtual Machine running Windows Server 2016. Code examples are in C# and F# and run in Visual Studio Community 2019. This technology is ready for production implementation and runs on .NET Core
+
+* Video: [https://youtu.be/NlFTSBc0LzM](https://youtu.be/NlFTSBc0LzM)
+
+### **Talk Two of Four(2/4):** Introduction to AutoML with ML.NET 1.0
+
+**Description:** ML.NET 1.0 release is the first major milestone of a great journey that started in May 2018 when we released ML.NET 0.1 as open source. ML.NET is an open-source and cross-platform machine learning framework for .NET developers. Using ML.NET, developers can leverage their existing tools and skillsets to develop and infuse custom AI into their applications by creating custom machine learning models for common scenarios like Sentiment Analysis, Recommendation, Image Classification and more.
+“Automated ML” is a collection of new technologies from Microsoft to enhance the data science development process. Still in preview, Auto ML for ML.NET 1.0 will be demonstrated in a Deep Learning Virtual Machine running Windows Server 2016. Code examples are in C# and run in Visual Studio Community 2019.
+
+* Video: [https://youtu.be/UG5j3CIF-j0](https://youtu.be/UG5j3CIF-j0)
+
+### **Talk Three of Four(3/4):** Introduction to NimbusML
+
+**Description:** NimbusML enables data scientists to use ML.NET to train models in Azure Machine Learning or anywhere else they use Python. NimbusML provides state-of-the-art ML algorithms, transforms and components, aiming to make them useful for all developers, data scientists, and information workers and helpful in all products, services and devices. The components are authored by the team members, as well as numerous contributors from MSR, CISL, Bing and other teams at Microsoft. NimbusML is interoperable with scikit-learn estimators and transforms, while adding a suite of highly optimized algorithms written in C++ and C# for speed and performance.
+The trained machine learning model can be used in a .NET application with ML.NET. This presentation will outline the features of NimbusML and provide a notebook-based demonstration using Azure Notebooks
+
+* Video: [https://youtu.be/E36V8W3IFGE](https://youtu.be/E36V8W3IFGE)
+
+### **Talk Four of Four(4/4):** Overview of Automated ML June 2019
+
+**Description:** Automated machine learning (automated ML) automates feature engineering, algorithm and hyperparameter selection to find the best model for your data. The mission: Enable automated building of machine learning with the goal of accelerating, democratizing and scaling AI. 
+This presentation covers some recent announcements of technologies related to Automated ML, and especially for Azure. The demonstrations focus on Python with Azure ML Service and Azure Databricks
+
+* Video: [https://youtu.be/zSA8q_lZ1QA](https://youtu.be/zSA8q_lZ1QA)
+
