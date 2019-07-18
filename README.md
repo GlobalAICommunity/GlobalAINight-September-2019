@@ -43,6 +43,7 @@ In this workshop you will be introduced to the data science process for building
 Intelligent experiences powered by AI can seem like magic to users. Developing them, however, is cumbersome involving a series of sequential and interconnected decisions along the way that are pretty time consuming. What if there was an automated service that identifies the best machine learning pipelines for a given problem/data? Automated machine learning does exactly that! Learn how to quickly and efficiently build high accuracy ml models for classification, regression and forecasting scenarios using code and code-free pathways.
 
 #### Materials
+* All information needed is available in the [presentation folder here](automated-ml-presentation-material.zip)
 
 
 
