@@ -9,8 +9,10 @@
 # Workshops
 
 ## Beginner Track
-**[Train the Trainer recording](https://youtu.be/S4YTTjfkWrA)** 
+
 ### **Part 1 -** Creating applications that can see, hear, speak or understand - using Microsoft Cognitive Services (1 hour)
+
+**[Train the Trainer recording](https://youtu.be/S4YTTjfkWrA)** 
 
 In this workshop you will be introduced to the Microsoft Azure Cognitive Services, a range of offerings you can use to infuse intelligence and machine learning into your applications without needing to build the code from scratch. We will cover pre-trained AI APIs, such as computer vision and text analytics, that are accessed by REST protocol. nEXT we will dive into Custom AI that uses transfer learning - Microsoft Azure Custom Vision. This enables you to provide a small amount of your own data to train an image classification model. Wrapping the workshop up by building our custom trained AI into an application - using Logic Apps, this technology is ideal for building data pipeline processes that work with your machine learning models.
 
@@ -30,6 +32,8 @@ In this workshop you will be introduced to the Microsoft Azure Cognitive Service
  
  
 ###  **Part 2 -** Is that wine good or bad? A beginner tutorial on how to build a binary classification machine learning model with no code using Azure Machine Learning Visual Interface (1 hour)
+
+**[Train the Trainer recording](https://youtu.be/VnzUHS0iu9o)** 
 
 In this workshop you will be introduced to the data science process for building custom machine learning models using Azure Machine Learning Visual Interface. We will cover how to find, import, and prepare data, selecting a machine learning algorithm, training and testing the model, and how to deploy a complete model to an API. Lastly we will discuss some common data science beginner gotchas and provide additional resources to continue your machine learning journey!
 
