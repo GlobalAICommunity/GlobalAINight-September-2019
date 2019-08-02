@@ -44,6 +44,8 @@ In this workshop you will be introduced to the data science process for building
 
 ### **Part 1 -** Learn how to train high accuracy machine learning models using automated machine learning (1 hour)
 
+**[Train the Trainer recording](https://youtu.be/y-8k6GGXHTc)** 
+
 Intelligent experiences powered by AI can seem like magic to users. Developing them, however, is cumbersome involving a series of sequential and interconnected decisions along the way that are pretty time consuming. What if there was an automated service that identifies the best machine learning pipelines for a given problem/data? Automated machine learning does exactly that! Learn how to quickly and efficiently build high accuracy ml models for classification, regression and forecasting scenarios using code and code-free pathways.
 
 #### Materials
@@ -52,6 +54,8 @@ Intelligent experiences powered by AI can seem like magic to users. Developing t
 
 
 ### **Part 2 -** Crash course on building and accelerating deep learning solutions (1 hour)
+
+**[Train the Trainer recording](https://youtu.be/6kJ9187rUyk)** 
 
 Learn the end to end process of building deep learning solutions from experimentation to deployment. We will start by experimenting locally with different model architectures and hyperparameters using PyTorch. Then, we’ll show you how to use Azure Machine Learning service to train models at massive scale in the cloud and seamlessly deploy them into production.
 
