@@ -4,7 +4,7 @@
 - [Rollup Banner](https://globalaibootcamp.blob.core.windows.net/artwork/ainight_rollup-banner.psd)
 - [Meetup Banner](https://globalaibootcamp.blob.core.windows.net/artwork/ainight_banner.psd)
 - [Font](https://globalaibootcamp.blob.core.windows.net/artwork/font_quicksand.zip)
-
+- [Organizer T-Shirt](https://globalaibootcamp.blob.core.windows.net/artwork/t-shirt.eps)
 
 # Workshops
 
